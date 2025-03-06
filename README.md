@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens python e Java para sistemas back-end.</p>
+<p align="left">Estudante de Análise e desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens python e Java para sistemas back-end.</p>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Para contato:</p>
+<p align="left">Para contato</p>
 
 ###
 
