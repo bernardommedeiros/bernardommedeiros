@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Tecnologias</p>
+<p align="left"><b>Tecnologias</b></p>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Para contato</p>
+<p align="left"><b>Contato</b></p>
 
 ###
 
