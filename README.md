@@ -4,12 +4,10 @@
 <br>
 
 <p>
-  
       <img
         align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
         alt="Github Stats"
-
 </p>
 <br>
 
@@ -46,7 +44,7 @@
 <br>
 <br>
 
----
+
 
 
 
