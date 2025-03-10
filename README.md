@@ -3,7 +3,7 @@
 <br><br>
 
 <!-- Colocando a imagem aqui -->
-<div align="right">
+<div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
     alt="Github Stats"
