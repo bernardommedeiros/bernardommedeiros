@@ -1,5 +1,7 @@
 ## Bernardo Medeiros
 <p align="left">Estudante de Análise e desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens Python e Java para sistemas back-end.</p>
+<br>
+<br>
 
 <table>
   <tr>
@@ -12,7 +14,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 --- 
 
 
@@ -45,6 +47,7 @@
 
 <br>
 <br>
+---
 
 
 
@@ -60,8 +63,8 @@
 
 <br clear="both">
 
-
-
+<br>
+<br>
 
 
 ---
