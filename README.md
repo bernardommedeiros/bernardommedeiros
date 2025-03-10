@@ -5,16 +5,7 @@
   <tr>
     <td>
       <img
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=rbernardommedeiros&show_icons=true&hide=prs,stars&theme=radical" />
-  
-</a>
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
         alt="Github Stats"
       />
