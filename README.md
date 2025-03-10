@@ -1,18 +1,17 @@
 ## Bernardo Medeiros
 <p align="left">Estudante de Análise e desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens Python e Java para sistemas back-end.</p>
-<br>
-<br>
+<br><br>
 
-<div>
-      <img
-        align="right"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
-        alt="Github Stats"
+<!-- Colocando a imagem aqui -->
+<div align="right">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
+    alt="Github Stats"
+  />
 </div>
 <br>
 
 ---
-
 
 ### Tecnologias
 
@@ -41,12 +40,7 @@
   <img width="15" />
 </div>
 
-<br>
-<br>
-
-
-
-
+<br><br>
 
 ### Contato
 
@@ -57,11 +51,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-
 <br clear="both">
 
 <br>
-
 
 ---
 
@@ -77,6 +69,3 @@
     />
   </a>
 </p>
-
-
-
