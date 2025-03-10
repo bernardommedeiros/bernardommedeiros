@@ -3,17 +3,14 @@
 <br>
 <br>
 
-<table>
-  <tr>
-    <td>
+<p>
+  
       <img
         align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
         alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+
+</p>
 <br>
 
 ---
