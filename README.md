@@ -7,15 +7,8 @@
       <img
         <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=rbernardommedeiros&show_icons=true&hide=prs,stars&theme=radical" />
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&layout=compact&theme=radical" />
+  
 </a>
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
       />
     </td>
     <td>
