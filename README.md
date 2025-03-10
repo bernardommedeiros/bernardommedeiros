@@ -1,6 +1,6 @@
 ## Bernardo Medeiros
 <p align="left">Estudante de Análise e desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens Python e Java para sistemas back-end.</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardommedeiros&show_icons=true&locale=en&layout=compact" alt="bernardommedeiros" /></p>
+
 <table>
   <tr>
     <td>
