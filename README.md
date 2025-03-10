@@ -1,18 +1,12 @@
 ## Bernardo Medeiros
 <p align="left">Estudante de Análise e desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens Python e Java para sistemas back-end.</p>
-
-<table>
-  <tr>
-    <td>
       <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
         alt="Github Stats"
       />
-    </td>
-  </tr>
-</table>
+    
 
 --- 
 
@@ -43,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
----
 
 
 ### Contato
