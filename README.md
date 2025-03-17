@@ -57,10 +57,10 @@
 
 <div align="center">
   <a href="https://www.instagram.com/bernardomm_/" target="_blank">
-    <img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25" alt="instagram logo"  target="_blank"/>
+    <img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25" alt="instagram logo"  target="_blank" "/>
   </a>
 
-  <a href="mailto:bernardo181105@gmail.com" target="_blank">
+  <a href="mailto:bernardo181105@gmail.com" target="_blank" >
     <img align=center src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
   </a>
   
