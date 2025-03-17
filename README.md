@@ -5,10 +5,9 @@
 
   </div>
 <div align="center"; >
-   <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
-      alt="Github Stats"
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark" </p>
+       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark" width="380" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
+      alt="Github Stats" width="400" />
 </div>
 
 <br>
