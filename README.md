@@ -8,7 +8,7 @@
    <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
       alt="Github Stats"
-    />
+  <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark"</p>
 </div>
 
 <br>
@@ -16,7 +16,8 @@
 ---
 
 ### Tecnologias
-
+<br>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="15" />
@@ -43,18 +44,15 @@
   
 </div>
 <br>
-<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardommedeiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
-       width="400" 
-       height="200" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardommedeiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" 
+       width="350" 
+       height="350" 
        alt="languages graph" />
 </div>
 
-
 <br>
-<br>
-
 
 ### Contato
 
