@@ -7,10 +7,8 @@
 <div align="center"; >
    <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
-      alt="Github Stats" width="350" 
-       height="370"
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark" width="350" 
-       height="350" </p>
+      alt="Github Stats"
+  <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark" </p>
 </div>
 
 <br>
