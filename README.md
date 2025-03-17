@@ -7,8 +7,10 @@
 <div align="center"; >
    <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
-      alt="Github Stats"
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark"</p>
+      alt="Github Stats" width="350" 
+       height="370"
+  <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark" width="350" 
+       height="350" </p>
 </div>
 
 <br>
@@ -47,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardommedeiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" 
-       width="350" 
+       width="350"  
        height="350" 
        alt="languages graph" />
 </div>
