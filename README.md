@@ -46,8 +46,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=dark&show_icons=true&hide_border=true&layout=compact" 
-       width="360"  
-       height="260" 
+       width="380"  
+       height="200" 
        alt="languages graph" />
 </div>
 
