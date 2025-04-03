@@ -5,8 +5,8 @@
 
   </div>
 <div align="center"; >
-       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark" width="406" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=false"
+       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&show_icons=true&theme=dark&hide_border=true" width="406" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=dark&hide_border=true"
       alt="Github Stats" width="430" />
 </div>
 
@@ -20,15 +20,15 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="15" />
@@ -45,9 +45,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardommedeiros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" 
-       width="400"  
-       height="300" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=dark&show_icons=true&hide_border=true&layout=compact" 
+       width="360"  
+       height="260" 
        alt="languages graph" />
 </div>
 
