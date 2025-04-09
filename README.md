@@ -1,5 +1,5 @@
 ## Bernardo Medeiros
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento web e as linguagens Python e Java para sistemas back-end.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento front-end nas tecnologias JavaScript, React e TailwindCSS e as linguagens Python, juntamente com framework Django e Java para sistemas back-end.</p>
 <br><br>
 
 
