@@ -5,8 +5,8 @@
 
   </div>
 <div align="center"; >
-       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="406" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=transparent&hide_border=true"
+       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=false&count_private=true" width="406" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=transparent&hide_border=false"
       alt="Github Stats" width="430" />
 </div>
 
@@ -45,9 +45,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=true&layout=donut"
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=false&layout=donut"  
        alt="languages graph" />
   
+
 
 </div>
 
