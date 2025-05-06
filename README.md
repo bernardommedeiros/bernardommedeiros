@@ -1,12 +1,12 @@
 ## Bernardo Medeiros
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas.<br><br>Atualmente, estudando desenvolvimento front-end nas tecnologias JavaScript, React e TailwindCSS e as linguagens Python, juntamente com framework Django e Java para sistemas back-end.</p>
+<p align="left"> <strong> Graduando em Análise e Desenvolvimento de Sistemas </strong><br><br>Atualmente, com foco em desenvolvimento full-stack, aprofundando conhecimentos em JavaScript, React e TailwindCSS para interfaces modernas e responsivas, além de estudar Python no framework Django e Java para o desenvolvimento de sistemas back-end escaláveis.</p>
 <br><br>
 
 
   </div>
 <div align="center"; >
-       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" width="406" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=vision-friendly-dark&hide_border=true"
+       <img src="https://github-readme-stats.vercel.app/api?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="406" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardommedeiros&theme=transparent&hide_border=true"
       alt="Github Stats" width="430" />
 </div>
 
@@ -26,11 +26,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django logo" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="15" />
@@ -43,9 +45,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=donut"
-       width="350"  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=true&layout=donut"
        alt="languages graph" />
+  
+
 </div>
 
 <br>
