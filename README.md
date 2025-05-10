@@ -12,66 +12,55 @@
 
 <br>
 
----
+### Meios de contato
 
-### Tecnologias
-
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
-  <img width="15" />
-  
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardommedeiros&theme=transparent&show_icons=true&hide_border=false&layout=donut"  
-       alt="languages graph" />
-  
-
-
-</div>
-
-<br>
-
-### Contato
-
-<div align="center">
-  <a href="https://www.instagram.com/bernardomm_/" target="_blank">
-    <img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" alt="instagram logo"  target="_blank" "/>
+<div>
+  <img width="20" />
+  <a href=https://www.linkedin.com/in/bernardomouramedeiros/" target="_blank">
+    <img align=center src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" target="_blank" />
   </a>
-<img width="10" />
+<img width="6" />
   <a href="mailto:bernardo181105@gmail.com" target="_blank" >
-    <img align=center src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" alt="gmail logo"  />
+    <img align=center src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
   </a>
-  <img width="10" />
-  <a href="https://www.linkedin.com/in/bernardo-medeiros-123a87348/" target="_blank">
-    <img align=center src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="linkedin logo" target="_blank" />
+  <img width="6" />
+
+   <a href="https://www.instagram.com/bernardomm_/" target="_blank">
+    <img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25" alt="instagram logo"  target="_blank" "/>
   </a>
+
      
 </div>
 
-<br clear="both">
+<br>
+
+---
+
+### Tecnologias e ferramentas
+
+<br>
+<div>
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="15" />
+  
+</div>
 
 <br>
 
