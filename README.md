@@ -1,6 +1,6 @@
 ## Bernardo Medeiros
-<p align="left"> <strong> Graduando em Análise e Desenvolvimento de Sistemas </strong><br><br>Atualmente, com foco em desenvolvimento full-stack, aprofundando conhecimentos em JavaScript, React e TailwindCSS para interfaces modernas e responsivas, além de estudar Python no framework Django e Java para o desenvolvimento de sistemas back-end escaláveis.</p>
-<br><br>
+<p align="left"> <strong> Graduando em Análise e Desenvolvimento de Sistemas </strong><br><br>Atualmente, com foco em desenvolvimento full-stack, aprofundando conhecimentos em JavaScript, React e TailwindCSS para para a criação de interfaces modernas, responsivas e com boa experiência de usuário, no back-end desenvolvo nas tecnologias Python no framework Django e Java para o desenvolvimento de sistemas escaláveis, juntamente com o banco de dados PostgreSQL para armazenamento e consulta dos dados persistidos, visando robustez e eficiência. Estudando as ferramentas Docker e Docker Compose para configurar ambientes de desenvolvimento padronizados, portáveis e consistentes.</p>
+<br>
 
 
   </div>
@@ -34,14 +34,12 @@
 
 <br>
 
----
-
 ### Tecnologias e ferramentas
 
 <br>
 <div>
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
   <img width="15" />
@@ -54,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="docker logo"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="15" />
@@ -77,8 +77,3 @@
     />
   </a>
 </p>
-
-
-
-
-
