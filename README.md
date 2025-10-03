@@ -3,12 +3,12 @@
 <p align="left">
   <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong><br><br>
   Atualmente com foco em <strong>desenvolvimento full-stack</strong>, aprofundando conhecimentos em 
-  <strong>JavaScript, Vue.js, React e Bulma</strong> para criação de interfaces modernas, responsivas e acessíveis. 
+  <strong>JavaScript, Vue.js, React e TailwindCss</strong> para criação de interfaces modernas, responsivas e acessíveis. 
   No <strong>back-end</strong>, desenvolvo com <strong>Python (Django)</strong> e <strong>Node.js</strong>, criando 
   aplicações escaláveis e seguras.  
   Para persistência de dados, utilizo bancos relacionais como <strong>PostgreSQL</strong> e não relacionais como 
   <strong>MongoDB</strong> e <strong>Firebase</strong>, buscando sempre eficiência e robustez.  
-  Também possuo conhecimemto em <strong>Docker e Docker Compose</strong> para configurar ambientes padronizados, portáveis e consistentes.
+  Também possuo conhecimento em <strong>Docker e Docker Compose</strong> para configurar ambientes padronizados, portáveis e consistentes.
 </p>
 
 <br>
