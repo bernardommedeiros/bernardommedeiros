@@ -3,7 +3,7 @@
 <p align="left">
   <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong><br><br>
   Atualmente com foco em <strong>desenvolvimento full-stack</strong>, aprofundando conhecimentos em 
-  <strong>JavaScript, Vue.js, React e TailwindCss</strong> para criação de interfaces modernas, responsivas e acessíveis. 
+  <strong>Vue, React e TailwindCss</strong> para criação de interfaces modernas, responsivas e acessíveis. 
   No <strong>back-end</strong>, desenvolvo com <strong>Python (Django)</strong> e <strong>Node.js</strong>, criando 
   aplicações escaláveis e seguras.  
   Para persistência de dados, utilizo bancos relacionais como <strong>PostgreSQL</strong> e não relacionais como 
@@ -47,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="50" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="TailwindCSS" />
 </div>
 
@@ -54,6 +55,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" height="50" alt="Django Rest" />
   <img src="https://cdn.simpleicons.org/node.js/339933" height="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 </div>
@@ -65,10 +67,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="50" alt="Firebase" />
 </div>
 
-#### Ferramentas
+#### Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="50" alt="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="50" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="50" alt="Gitlab"/>
 </div>
 
 </div>
