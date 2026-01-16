@@ -27,12 +27,8 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
   </a>
   <img width="12" />
-  <a href="mailto:bernardomoura.profissional@outlook.com" target="_blank">
+  <a href="mailto:bernardomedeiros.profissional@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="50" alt="Gmail" />
-  </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/bernardomm_/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="50" alt="Instagram" />
   </a>
 </div>
 
@@ -55,9 +51,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" height="50" alt="Django Rest" />
   <img src="https://cdn.simpleicons.org/node.js/339933" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.simpleicons.org/express" height="50" alt="Express.js" />
 </div>
 
 #### Databases
@@ -77,14 +72,3 @@
 </div>
 
 </div>
-
-<br>
-
----
-
-### Conquistas no GitHub
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
-    <img src="https://github-profile-trophy.vercel.app/?username=bernardommedeiros&theme=darkhub&no-frame=true&no-bg=true&column=-1" />
-  </a>
-</p>
